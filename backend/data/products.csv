@@ -1,0 +1,21 @@
+id,name,category,brand,current_price,cost_price,description
+1,Wireless Bluetooth Headphones,Electronics,SoundMax,74.95,35.0,High quality wireless bluetooth headphones from SoundMax. Category: Electronics.
+2,"4K Ultra HD Smart TV 55""",Electronics,VisionPro,434.89,280.0,"High quality 4k ultra hd smart tv 55"" from VisionPro. Category: Electronics."
+3,Portable Power Bank 20000mAh,Electronics,ChargePlus,43.89,15.0,High quality portable power bank 20000mah from ChargePlus. Category: Electronics.
+4,Mechanical Gaming Keyboard,Electronics,KeyForce,140.12,52.0,High quality mechanical gaming keyboard from KeyForce. Category: Electronics.
+5,Premium Cotton T-Shirt,Clothing,UrbanThread,29.44,8.0,High quality premium cotton t-shirt from UrbanThread. Category: Clothing.
+6,Slim Fit Denim Jeans,Clothing,DenimCraft,56.54,22.0,High quality slim fit denim jeans from DenimCraft. Category: Clothing.
+7,Waterproof Running Jacket,Clothing,StormGuard,111.63,40.0,High quality waterproof running jacket from StormGuard. Category: Clothing.
+8,Classic Leather Belt,Clothing,HideCraft,41.98,12.0,High quality classic leather belt from HideCraft. Category: Clothing.
+9,Stainless Steel Blender,Home & Kitchen,BlendMaster,81.58,32.0,High quality stainless steel blender from BlendMaster. Category: Home & Kitchen.
+10,Memory Foam Pillow Set,Home & Kitchen,DreamSoft,51.17,14.0,High quality memory foam pillow set from DreamSoft. Category: Home & Kitchen.
+11,Non-stick Cookware 10pc Set,Home & Kitchen,ChefLine,177.88,55.0,High quality non-stick cookware 10pc set from ChefLine. Category: Home & Kitchen.
+12,Smart LED Desk Lamp,Home & Kitchen,LumiTech,47.15,18.0,High quality smart led desk lamp from LumiTech. Category: Home & Kitchen.
+13,Yoga Mat Premium 6mm,Sports & Outdoors,FlexFit,29.7,9.0,High quality yoga mat premium 6mm from FlexFit. Category: Sports & Outdoors.
+14,Insulated Water Bottle 1L,Sports & Outdoors,HydroKeep,34.3,7.0,High quality insulated water bottle 1l from HydroKeep. Category: Sports & Outdoors.
+15,Adjustable Dumbbell Set 25kg,Sports & Outdoors,IronCore,146.22,75.0,High quality adjustable dumbbell set 25kg from IronCore. Category: Sports & Outdoors.
+16,Camping Tent 4-Person,Sports & Outdoors,TrailBlazer,314.5,90.0,High quality camping tent 4-person from TrailBlazer. Category: Sports & Outdoors.
+17,Bestseller Fiction Novel,Books & Media,PageTurn,13.26,4.0,High quality bestseller fiction novel from PageTurn. Category: Books & Media.
+18,Programming Reference Guide,Books & Media,CodePress,64.11,12.0,High quality programming reference guide from CodePress. Category: Books & Media.
+19,Noise Cancelling Earbuds,Books & Media,AudioPure,61.25,20.0,High quality noise cancelling earbuds from AudioPure. Category: Books & Media.
+20,Digital Drawing Tablet,Books & Media,ArtPad,92.9,35.0,High quality digital drawing tablet from ArtPad. Category: Books & Media.

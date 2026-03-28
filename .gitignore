@@ -1,0 +1,35 @@
+# Dependencies
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+
+# Database
+*.db
+*.sqlite3
+
+# ML model artifacts
+backend/app/ml/trained_model.pkl
+
+# Build outputs
+frontend/dist/
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated data (optional - can be regenerated)
+# backend/data/*.csv
