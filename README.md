@@ -1,4 +1,4 @@
-# 🔮 Price Pulse — Intelligent Pricing Engine
+# Price Pulse — Intelligent Pricing Engine
 
 An AI-powered pricing system that tracks product prices, analyzes competitor pricing, and recommends optimal pricing strategies using machine learning.
 
@@ -20,7 +20,7 @@ An AI-powered pricing system that tracks product prices, analyzes competitor pri
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 Price Pulse is a modular, production-ready system consisting of:
 
@@ -40,7 +40,7 @@ Price Pulse is a modular, production-ready system consisting of:
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -88,7 +88,7 @@ Price Pulse is a modular, production-ready system consisting of:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology | Purpose |
 |-------|-----------|---------|
@@ -105,7 +105,7 @@ Price Pulse is a modular, production-ready system consisting of:
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 
